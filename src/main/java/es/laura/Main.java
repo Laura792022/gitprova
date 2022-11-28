@@ -9,7 +9,7 @@ public class Main {
 
     //genera un saluto in spagnolo
     public static String saluto() {
-        return "Ciao!";
+        return "Hola mundo!";
     }
 
 }
