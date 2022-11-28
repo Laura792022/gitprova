@@ -6,4 +6,10 @@ public class Main {
         System.out.println("Adios mundo");
         System.out.println("larala");
     }
+
+    //genera un saluto in spagnolo
+    public static String saluto() {
+        return "Hola mundo!";
+    }
+
 }
